@@ -1,0 +1,21 @@
+﻿  3x1.cpp
+C:\Users\eugen\OneDrive - CTU Career\CTU Assesments\PRP\New folder\3x1\3x1.cpp(59,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eugen\OneDrive - CTU Career\CTU Assesments\PRP\New folder\3x1\3x1.cpp(83,34): error C3083: 'chrono': the symbol to the left of a '::' must be a type
+C:\Users\eugen\OneDrive - CTU Career\CTU Assesments\PRP\New folder\3x1\3x1.cpp(83,42): error C3083: 'high_resolution_clock': the symbol to the left of a '::' must be a type
+C:\Users\eugen\OneDrive - CTU Career\CTU Assesments\PRP\New folder\3x1\3x1.cpp(83,65): error C2039: 'now': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\iostream(19,1): message : see declaration of 'std'
+C:\Users\eugen\OneDrive - CTU Career\CTU Assesments\PRP\New folder\3x1\3x1.cpp(83,68): error C3861: 'now': identifier not found
+C:\Users\eugen\OneDrive - CTU Career\CTU Assesments\PRP\New folder\3x1\3x1.cpp(85,30): error C3083: 'chrono': the symbol to the left of a '::' must be a type
+C:\Users\eugen\OneDrive - CTU Career\CTU Assesments\PRP\New folder\3x1\3x1.cpp(85,38): error C3083: 'high_resolution_clock': the symbol to the left of a '::' must be a type
+C:\Users\eugen\OneDrive - CTU Career\CTU Assesments\PRP\New folder\3x1\3x1.cpp(85,61): error C2039: 'now': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\iostream(19,1): message : see declaration of 'std'
+C:\Users\eugen\OneDrive - CTU Career\CTU Assesments\PRP\New folder\3x1\3x1.cpp(85,64): error C3861: 'now': identifier not found
+C:\Users\eugen\OneDrive - CTU Career\CTU Assesments\PRP\New folder\3x1\3x1.cpp(86,27): error C3083: 'chrono': the symbol to the left of a '::' must be a type
+C:\Users\eugen\OneDrive - CTU Career\CTU Assesments\PRP\New folder\3x1\3x1.cpp(86,35): error C2039: 'duration_cast': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\iostream(19,1): message : see declaration of 'std'
+C:\Users\eugen\OneDrive - CTU Career\CTU Assesments\PRP\New folder\3x1\3x1.cpp(86,48): error C2065: 'duration_cast': undeclared identifier
+C:\Users\eugen\OneDrive - CTU Career\CTU Assesments\PRP\New folder\3x1\3x1.cpp(86,54): error C3083: 'chrono': the symbol to the left of a '::' must be a type
+C:\Users\eugen\OneDrive - CTU Career\CTU Assesments\PRP\New folder\3x1\3x1.cpp(86,62): error C2039: 'milliseconds': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\iostream(19,1): message : see declaration of 'std'
+C:\Users\eugen\OneDrive - CTU Career\CTU Assesments\PRP\New folder\3x1\3x1.cpp(86,74): error C2065: 'milliseconds': undeclared identifier
+C:\Users\eugen\OneDrive - CTU Career\CTU Assesments\PRP\New folder\3x1\3x1.cpp(88,76): error C3536: 'time_diff': cannot be used before it is initialized
